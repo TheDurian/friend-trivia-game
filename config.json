@@ -134,6 +134,12 @@
             "suffixes": [
                 "that %1 would rate"
             ]
+        },
+        {
+            "topic": "A video game character",
+            "suffixes": [
+                "that %1 would rate"
+            ]
         }
     ],
     "Ratings": [
