@@ -29,6 +29,20 @@ Player 1 decides to answer with "All Time Low". They ask the rest of the players
 Assuming every player rated the band with an 8/9/10, Player 1 will receive a point. Otherwise, they would continue to the 
 next question.
 
+The following is a sample of generated prompts:
+```
+A movie that nobody has seen
+A song that everybody would rate a 4-6
+An athletic activity that only Ross+Darian would rate a 0-3
+A porn title that nobody would rate a 8-10
+A TV show released in 2018 that everybody has seen
+A movie released in 2023 that nobody has seen
+An athletic activity that only Ross+David+Darian would rate a 8-10
+A game that nobody would rate a 8-10
+A music artist / band that Louie would say they like
+A TV show released in 2017 that Darian has seen
+```
+
 ## Modifications
 
 Within the config, there is room for modification to expand or simplify the game.
