@@ -21,9 +21,6 @@ for player in config["People"]:
                 person = "everybody"
             elif random.random() < config["ChanceFor_Nobody"]:
                 person = "nobody"
-            elif random.random() < config["ChanceFor_OnlyOnePerson"]:
-                person = "everybody"
-
             else:
                 person = ""
                 if random.random() < config["ChanceFor_OnlyPeople"]:

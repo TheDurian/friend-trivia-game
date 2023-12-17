@@ -7,10 +7,8 @@
     ],
     "ChanceFor_Everybody": 0.25,
     "ChanceFor_Nobody": 0.25,
-    "ChanceFor_OnlyOnePerson": 0.2,
     "ChanceFor_ExtraPerson": 0.33,
     "ChanceFor_OnlyPeople": 0.33,
-    "ChanceFor_Only": 0.1,
     "Topics": [
         {
             "topic": "A movie",
@@ -47,7 +45,7 @@
             "suffixes": [
                 "that %1 %2 listened to recently (2 weeks)",
                 "that %1 would rate",
-                "that %1 would say they generally like"
+                "that %1 would say they like"
             ]
         },
         {
