@@ -1,0 +1,142 @@
+{
+    "People": [
+        "Darian",
+        "David",
+        "Louie",
+        "Ross"
+    ],
+    "ChanceFor_Everybody": 0.25,
+    "ChanceFor_Nobody": 0.25,
+    "ChanceFor_OnlyOnePerson": 0.2,
+    "ChanceFor_ExtraPerson": 0.33,
+    "ChanceFor_OnlyPeople": 0.33,
+    "ChanceFor_Only": 0.1,
+    "Topics": [
+        {
+            "topic": "A movie",
+            "modifiers": [
+                "released in 2016",
+                "released in 2017",
+                "released in 2018",
+                "released in 2019",
+                "released in 2020",
+                "released in 2021",
+                "released in 2022",
+                "released in 2023"
+            ],
+            "modifier_chance": 0.5,
+            "suffixes": [
+                "that %1 %2 seen",
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A female celebrity",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A restaurant",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A music artist / band",
+            "suffixes": [
+                "that %1 %2 listened to recently (2 weeks)",
+                "that %1 would rate",
+                "that %1 would say they generally like"
+            ]
+        },
+        {
+            "topic": "A song",
+            "modifiers": [
+                "released in 2016",
+                "released in 2017",
+                "released in 2018",
+                "released in 2019",
+                "released in 2020",
+                "released in 2021",
+                "released in 2022",
+                "released in 2023"
+            ],
+            "modifier_chance": 0.5,
+            "suffixes": [
+                "that %1 %2 heard",
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A porn title",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "An athletic activity",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A dish / meal",
+            "suffixes": [
+                "that %1 %2 had recently (2 weeks)",
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A game",
+            "modifiers": [
+                "released in 2016",
+                "released in 2017",
+                "released in 2018",
+                "released in 2019",
+                "released in 2020",
+                "released in 2021",
+                "released in 2022",
+                "released in 2023"
+            ],
+            "modifier_chance": 0.5,
+            "suffixes": [
+                "that %1 %2 played",
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A TV show",
+            "modifiers": [
+                "released in 2016",
+                "released in 2017",
+                "released in 2018",
+                "released in 2019",
+                "released in 2020",
+                "released in 2021",
+                "released in 2022",
+                "released in 2023",
+                "that has concluded",
+                "that is ongoing"
+            ],
+            "modifier_chance": 0.7,
+            "suffixes": [
+                "that %1 %2 seen",
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A McDonalds menu item",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        }
+    ],
+    "Ratings": [
+        "0-3",
+        "4-6",
+        "6-8",
+        "8-10"
+    ],
+    "NumberOfQuestions": 10
+}
