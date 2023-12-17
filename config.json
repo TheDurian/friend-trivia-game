@@ -128,6 +128,12 @@
             "suffixes": [
                 "that %1 would rate"
             ]
+        },
+        {
+            "topic": "A person you went to high school with",
+            "suffixes": [
+                "that %1 would rate"
+            ]
         }
     ],
     "Ratings": [
