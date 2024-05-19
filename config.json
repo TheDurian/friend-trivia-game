@@ -20,9 +20,10 @@
                 "released in 2020",
                 "released in 2021",
                 "released in 2022",
-                "released in 2023"
+                "released in 2023",
+                "released in 2024"
             ],
-            "modifier_chance": 0.5,
+            "modifier_chance": 0.7,
             "suffixes": [
                 "that %1 %2 seen",
                 "that %1 would rate"
@@ -58,9 +59,10 @@
                 "released in 2020",
                 "released in 2021",
                 "released in 2022",
-                "released in 2023"
+                "released in 2023",
+                "released in 2024"
             ],
-            "modifier_chance": 0.5,
+            "modifier_chance": 0.7,
             "suffixes": [
                 "that %1 %2 heard",
                 "that %1 would rate"
@@ -81,8 +83,31 @@
         {
             "topic": "A dish / meal",
             "suffixes": [
+                "that %1 would rate",
+                "that %1 %2 had recently (2 weeks)",
+                "that %1 %2 had recently for breakfast",
+                "that %1 %2 had recently for lunch",
+                "that %1 %2 had recently for dinner"
+            ]
+        },
+        {
+            "topic": "A snack / candy",
+            "suffixes": [
                 "that %1 %2 had recently (2 weeks)",
                 "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A city",
+            "suffixes": [
+                "that %1 has been to recently (4 weeks)",
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A male celebrity",
+            "suffixes": [
+                "that %1 could beat in a fight"
             ]
         },
         {
@@ -95,9 +120,11 @@
                 "released in 2020",
                 "released in 2021",
                 "released in 2022",
-                "released in 2023"
+                "released in 2023",
+                "released in 2024",
+                "released pre-2000"
             ],
-            "modifier_chance": 0.5,
+            "modifier_chance": 0.7,
             "suffixes": [
                 "that %1 %2 played",
                 "that %1 would rate"
@@ -114,8 +141,10 @@
                 "released in 2021",
                 "released in 2022",
                 "released in 2023",
+                "released in 2024",
                 "that has concluded",
-                "that is ongoing"
+                "that is ongoing",
+                "released pre-2000"
             ],
             "modifier_chance": 0.7,
             "suffixes": [
@@ -127,6 +156,132 @@
             "topic": "A McDonalds menu item",
             "suffixes": [
                 "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A person you went to high school with",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A video game character",
+            "suffixes": [
+                "that %1 would rate",
+                "that %1 likes"
+            ]
+        },
+        {
+            "topic": "A Counter-Strike map",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "An Overwatch character",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A starter Pokemon",
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A gen 1 Pokemon",
+            "modifiers": [
+                "(normal type)",
+                "(fighting type)",
+                "(flying type)",
+                "(poison type)",
+                "(ground type)",
+                "(rock type)",
+                "(bug type)",
+                "(ghost type)",
+                "(steel type)",
+                "(fire type)",
+                "(water type)",
+                "(grass type)",
+                "(electric type)",
+                "(psychic type)",
+                "(ice type)",
+                "(dragon type)",
+                "(dark type)",
+                "(fairy type)"
+            ],
+            "modifier_chance": 0.3,
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A gen 2 Pokemon",
+            "modifiers": [
+                "(normal type)",
+                "(fighting type)",
+                "(flying type)",
+                "(poison type)",
+                "(ground type)",
+                "(rock type)",
+                "(bug type)",
+                "(ghost type)",
+                "(steel type)",
+                "(fire type)",
+                "(water type)",
+                "(grass type)",
+                "(electric type)",
+                "(psychic type)",
+                "(ice type)",
+                "(dragon type)",
+                "(dark type)",
+                "(fairy type)"
+            ],
+            "modifier_chance": 0.3,
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A gen 3 Pokemon",
+            "modifiers": [
+                "(normal type)",
+                "(fighting type)",
+                "(flying type)",
+                "(poison type)",
+                "(ground type)",
+                "(rock type)",
+                "(bug type)",
+                "(ghost type)",
+                "(steel type)",
+                "(fire type)",
+                "(water type)",
+                "(grass type)",
+                "(electric type)",
+                "(psychic type)",
+                "(ice type)",
+                "(dragon type)",
+                "(dark type)",
+                "(fairy type)"
+            ],
+            "modifier_chance": 0.3,
+            "suffixes": [
+                "that %1 would rate"
+            ]
+        },
+        {
+            "topic": "A body part",
+            "suffixes": [
+                "that %1 would rate",
+                "that %1 %2 shaved"
+            ]
+        },
+        {
+            "topic": "An article of clothing",
+            "suffixes": [
+                "that %1 would rate",
+                "that %1 %2 on"
             ]
         }
     ],

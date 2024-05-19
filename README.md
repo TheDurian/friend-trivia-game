@@ -43,6 +43,20 @@ A music artist / band that Louie would say they like
 A TV show released in 2017 that Darian has seen
 ```
 
+The player would could come up with the following images and questions:
+```
+Les Miserables - "Have you seen this?"
+Dance Dance - "What would you rate this?"
+Pickleball - "What would you rate this?"
+GRANDMA's FIRST TIME?!! - "What would you rate this?"
+Cobra Kai - "Have you seen this?"
+Open Heart - "Have you seen this?"
+Running - "What would you rate this?"
+Chivalry: Medieval Warfare - "What would you rate this?"
+Hozier - "Do you like this?"
+Young Sheldon - "Have you seen this?"
+```
+
 ## Modifications
 
 Within the config, there is room for modification to expand or simplify the game.
